@@ -1,6 +1,6 @@
 import openai
 # Use the openai library to set the API key
-openai.api_key = "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"
+openai.api_key = "sk-UijZ1VwSGYmnBB98mlP1T3BlbkFJWj6UQdMnCSpswrJG4vq711"
 count = 0
 while count<5:
     query = input("请输入：")
